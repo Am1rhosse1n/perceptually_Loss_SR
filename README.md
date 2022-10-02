@@ -10,12 +10,12 @@ Some results for the 2x, 3x, and 4x upscaling factors are represented with the r
 
 
 
-3x:
 
+3x:
 ![2](https://user-images.githubusercontent.com/67006007/146435049-6d4e85fe-ebf2-4a1c-af07-115df1958be6.jpg)
 
 
 
-4x:
 
+4x:
 ![3](https://user-images.githubusercontent.com/67006007/146435058-e9c6e331-e812-4eb5-84df-5badf83cff13.jpg)
